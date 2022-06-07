@@ -26,3 +26,10 @@ R:<p>;
 5. ¿Cuál es la función de la etiqueta anchor <a> en el ejemplo anterior?
 
 R:Para proporcionar un hipervínculo a la URL definida en el atributo href.
+
+
+PCS:
+Html es padre de todos los elementos.
+los elemntos head y body son hemanos;
+pero también el elemnto head es padre del elemento tittle;
+y el elemnto body es padre de los elemntos hermanos h1 y p.

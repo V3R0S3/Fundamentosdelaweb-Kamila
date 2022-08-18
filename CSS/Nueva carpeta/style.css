@@ -1,0 +1,30 @@
+h1 {
+    
+    color: black;
+    background-color: gray;
+    text-align:left;
+    font-weight: 900;
+    font-family: cursive;
+    padding: 10px;
+    float: left;
+    width: 48%;
+    margin-left: 0px;
+    clear: both;
+
+}
+
+.nav-links{
+    
+    color: black;
+    background-color: gray;
+    text-align:justify;
+    font-weight: 900;
+    font-family: cursive;
+    padding: 10px;
+    float: right;
+    width: 48%;
+
+
+}
+
+

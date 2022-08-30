@@ -1,0 +1,22 @@
+*{
+    padding: 1;
+    margin: 1;
+}
+.conteiner{
+padding: 0%;
+margin: 10%;
+border: 2px solid lightgray;
+}
+
+.head{
+    display: block;
+    background-color: rgb(0, 187, 201); 
+    padding: 10px;
+    margin: 0px; 
+    align-items: center;
+    justify-content: space-evenly;
+    position: responsive;
+}
+.head img{
+    position: relative;
+}

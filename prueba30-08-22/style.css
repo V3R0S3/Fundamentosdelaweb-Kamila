@@ -1,14 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+}
+
+.container{
+
+    background-image: url("banner.jpg");
+    background-repeat: no-repeat;
+    padding: 0% 0% 100% 0%;
+    margin: 0% 0% 100% 0%;
+
+}
 .nav{
-    color: black;
-    text-align:left;
-    font-weight: 900;
-    font-family: cursive;
-    /*clear: both;*/
-    font-weight: 900;
-    /*float: right;*/
-    width: 100%;
-    
+    background-color: #3a39395e 
+
 }
-.hoola{
-    color: red;
+.links{
+
+    font-size: 20px ;
+    font-family: 'Times New Roman', Times, serif;
+    color:azure;
+
 }
+.social{
+
+
+}
+
+.letras{
+    color: rgb(255, 0, 0);
+
+}
+
+
